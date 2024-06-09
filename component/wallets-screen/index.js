@@ -1,0 +1,5 @@
+export { default as StepOneWallet } from "./Step1"
+export { default as StepTwoWallet } from "./Step2"
+export { default as StepThreeWallet } from "./Step3"
+export { default as StepFourWallet } from "./Step4"
+export { default as StepFiveWallet } from "./Step5"

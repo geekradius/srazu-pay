@@ -1,0 +1,5 @@
+export { default as StepOneAdd } from "./Step1"
+export { default as StepTwoAdd } from "./Step2"
+export { default as StepThreeAdd } from "./Step3"
+export { default as StepFourAdd } from "./Step4"
+export { default as StepFiveAdd } from "./Step5"
